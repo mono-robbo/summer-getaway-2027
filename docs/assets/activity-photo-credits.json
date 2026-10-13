@@ -157,7 +157,9 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "description": "Jamberoo Action Park",
-    "local": "assets/activity-photos/jamberoo.webp"
+    "local": "assets/activity-photos/jamberoo.webp",
+    "captureDateFromExif": "2005-01-08",
+    "usageNote": "Archival overview; caption labels the 2005 metadata date and links to current official ride photos."
   },
   "kayaking": {
     "file": "Kayaking in Port Phillip Bay, Victoria, Australia.jpg",
