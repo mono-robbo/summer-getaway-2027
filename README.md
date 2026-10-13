@@ -4,14 +4,16 @@ A mobile-friendly NSW getaway guide for three Summer Hill families with children
 
 **Public source repository:** https://github.com/mono-robbo/summer-getaway-2027
 
-The complete website is in `docs/`. **Live guide:** https://summer-getaway-2027.mono-pools.workers.dev/
+The complete website is in `docs/`. **Live guide:** https://summer-getaway-2027.pages.dev/
 
 Dates: 4–6 January 2027 (two nights), or 8–11 January 2027 (three nights).
 Seven destinations, 35 illustrated activity highlights, accommodation links, expandable indicative budgets, filters, favourites and sharing.
 
 ## Publishing
 
-This is a static website. No build step, package installation or application server is needed. Cloudflare Workers Static Assets hosts the contents of `docs/` on the default `workers.dev` address, with no custom-domain routing. To deploy an update, use `npx wrangler deploy` from this repository after pushing changes to GitHub.
+This is a static website. No build step, package installation or application server is needed. Cloudflare Pages hosts the contents of `docs/` at `summer-getaway-2027.pages.dev`. To deploy an update after pushing changes to GitHub, run `npx wrangler pages deploy docs --project-name summer-getaway-2027` with an authenticated Cloudflare Pages connection. You can also upload the contents of `docs/` through the Cloudflare Pages dashboard.
+
+The previous Workers address redirects to this Pages address.
 
 GitHub Pages is disabled for this repository to avoid inheriting the account user-site custom domain.
 
