@@ -1,6 +1,6 @@
 # The January Escape
 
-A mobile-friendly NSW getaway guide for three Summer Hill families with children aged 6–13.
+A mobile-friendly NSW getaway guide for Summer Hill families with children aged 6–13.
 
 **Public source repository:** https://github.com/mono-robbo/summer-getaway-2027
 
