@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "file": "2023-09-02 Kiama, NSW.jpg",
+    "local": "assets/destination-1.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-09-02_Kiama,_NSW.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/2023-09-02_Kiama%2C_NSW.jpg/1920px-2023-09-02_Kiama%2C_NSW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Maksym Kozlenko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": 0,
+    "file": "Gerroa with rainforest hill.jpg",
+    "local": "assets/destination-0.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerroa_with_rainforest_hill.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gerroa_with_rainforest_hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "author": "Poyt448 Peter Woodard",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": 3,
+    "file": "Hyams Beach. Booderee National Park & Jervis Bay Marine Park.jpg",
+    "local": "assets/destination-3.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Hyams_Beach._Booderee_National_Park_%26_Jervis_Bay_Marine_Park.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hyams_Beach._Booderee_National_Park_%26_Jervis_Bay_Marine_Park.jpg/1920px-Hyams_Beach._Booderee_National_Park_%26_Jervis_Bay_Marine_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Charliekay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": 6,
+    "file": "Kangaroo Valley, main street.jpg",
+    "local": "assets/destination-6.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Kangaroo_Valley,_main_street.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Kangaroo_Valley%2C_main_street.jpg/1920px-Kangaroo_Valley%2C_main_street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "user:Grahamec",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": 2,
+    "file": "Shoal Bay NSW.jpg",
+    "local": "assets/destination-2.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Shoal_Bay_NSW.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Shoal_Bay_NSW.jpg/1920px-Shoal_Bay_NSW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Phil Whitehouse from London, United Kingdom",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": 4,
+    "file": "Umina Beach NSW 2257, Australia - panoramio (30).jpg",
+    "local": "assets/destination-4.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Umina_Beach_NSW_2257,_Australia_-_panoramio_(30).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Umina_Beach_NSW_2257%2C_Australia_-_panoramio_%2830%29.jpg/1920px-Umina_Beach_NSW_2257%2C_Australia_-_panoramio_%2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Maksym Kozlenko",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": 5,
+    "file": "View of Lake Macquarie from Swansea.jpg",
+    "local": "assets/destination-5.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Lake_Macquarie_from_Swansea.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/View_of_Lake_Macquarie_from_Swansea.jpg/1920px-View_of_Lake_Macquarie_from_Swansea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "JaredMcKenzie",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+]
