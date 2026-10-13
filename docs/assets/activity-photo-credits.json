@@ -149,18 +149,6 @@
     "description": "Hampden Bridge in the Kangaroo Valley, NSW, Australia.",
     "local": "assets/activity-photos/hampden.webp"
   },
-  "jamberoo": {
-    "file": "Jamberoo Action Park.jpg",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Jamberoo_Action_Park.jpg/1280px-Jamberoo_Action_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Jamberoo_Action_Park.jpg",
-    "author": "Wykymania (talk)",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "description": "Jamberoo Action Park",
-    "local": "assets/activity-photos/jamberoo.webp",
-    "captureDateFromExif": "2005-01-08",
-    "usageNote": "Archival overview; caption labels the 2005 metadata date and links to current official ride photos."
-  },
   "kayaking": {
     "file": "Kayaking in Port Phillip Bay, Victoria, Australia.jpg",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kayaking_in_Port_Phillip_Bay%2C_Victoria%2C_Australia.jpg/1280px-Kayaking_in_Port_Phillip_Bay%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -310,5 +298,29 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "description": "Umina Beach",
     "local": "assets/activity-photos/umina-beach.webp"
+  },
+  "jamberoo-octo": {
+    "file": "Octo Racer official gallery image",
+    "url": "https://www.jamberoo.net/wp-content/uploads/2022/11/Aerial-close-up.jpg",
+    "page": "https://www.jamberoo.net/rides/octo-racer/",
+    "author": "Jamberoo Action Park",
+    "copyright": "© Jamberoo Action Park",
+    "license": "Official promotional image; no Creative Commons licence asserted",
+    "licenseUrl": "",
+    "local": null,
+    "display": "Embedded from the original official source",
+    "sourceChecked": "2026-10-14"
+  },
+  "jamberoo-banjos": {
+    "file": "Banjo’s Billabong official gallery image",
+    "url": "https://www.jamberoo.net/wp-content/uploads/2021/08/JamberooAP_Web_Banjos_2021_2.jpg",
+    "page": "https://www.jamberoo.net/rides-and-attractions/banjos-billabong/",
+    "author": "Jamberoo Action Park",
+    "copyright": "© Jamberoo Action Park",
+    "license": "Official promotional image; no Creative Commons licence asserted",
+    "licenseUrl": "",
+    "local": null,
+    "display": "Embedded from the original official source",
+    "sourceChecked": "2026-10-14"
   }
 }
